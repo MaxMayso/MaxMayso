@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MaxMayso 
+- 👋 Hi, I’m Max Maysonet-Ramirez
 - 
 - 👀 I’m interested in full stack development, data science, machine learning, and automation engineering.
 - 
